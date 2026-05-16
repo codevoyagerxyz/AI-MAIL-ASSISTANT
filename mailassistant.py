@@ -11,7 +11,6 @@ from google.oauth2.credentials import Credentials
 
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 MEMORY_FILE = 'memory.json'
-
 load_dotenv()
 
 # GROQ API
